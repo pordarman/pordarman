@@ -27,7 +27,6 @@ I love working on my projects and appreciate your support. Feel free to check ou
 
 ⭐ GitHub Stats ⭐
 
-![Profile Views](https://img.shields.io/github/profile-views/pordarman?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/pordarman?style=social)
 
 ---
