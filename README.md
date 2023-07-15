@@ -1,3 +1,6 @@
+![Coding Everyday](https://i.hizliresim.com/pyig58c.png)
+
+
 # Hello there! 👋
 
 I'm pordarman, and I'm here to showcase my projects on my GitHub profile. Let me introduce you to some of them:
