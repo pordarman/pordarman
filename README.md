@@ -12,7 +12,7 @@ I'm pordarman, and I'm here to showcase my projects on my GitHub profile. Let me
 ## Other Projects
 I also have various modules and tools in the following projects:
 - [Alisa.ms](https://github.com/pordarman/alisa.ms): A useful module for time services.
-- [Alisa.set](https://github.com/pordarman/alisa.set): A functional module for set data structure.
+- [Strong Set](https://github.com/pordarman/strong-set): A functional module for set data structure.
 - [Alisa.map](https://github.com/pordarman/alisa.map): An easy-to-use module for map data structure.
 - [Alisa.array](https://github.com/pordarman/alisa.array): A practical module for array manipulation.
 
