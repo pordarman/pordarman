@@ -17,7 +17,7 @@ I also have various modules and tools in the following projects:
 - [Alisa.array](https://github.com/pordarman/alisa.array): A practical module for array manipulation.
 
 ## Current Project
-I'm currently working on developing an Instagram-style platform on Discord. With this bot, you can share posts, like them, comment, and follow other users. Please note that the project is still in the testing phase, so there might be minor bugs. Your understanding is appreciated. You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=838446728230993930&permissions=414464723969&scope=applications.commands%20bot).
+I'm currently working on developing an Instagram-style platform on Discord. With this bot, you can share posts, like them, comment, and follow other users. Please note that the project is still in the testing phase, so there might be minor bugs. Your understanding is appreciated. You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=829707395994877993&permissions=414464723969&scope=applications.commands%20bot).
 
 ## About Me
 I'm passionate about developing projects and always enjoy trying out new things. Feel free to explore my GitHub profile and reach out to me if you'd like to know more about my projects or get in touch. Here are my contact details:
