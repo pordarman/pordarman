@@ -15,6 +15,7 @@ I also have various modules and tools in the following projects:
 - [Strong Set](https://github.com/pordarman/strong-set): A functional module for set data structure.
 - [Alisa.map](https://github.com/pordarman/alisa.map): An easy-to-use module for map data structure.
 - [Alisa.array](https://github.com/pordarman/alisa.array): A practical module for array manipulation.
+- [Discord Utils](https://github.com/pordarman/dcjs-util): Contains necessary shortcuts for discord.js.
 
 ## About Me
 I'm passionate about developing projects and always enjoy trying out new things. Feel free to explore my GitHub profile and reach out to me if you'd like to know more about my projects or get in touch. Here are my contact details:
