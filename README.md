@@ -1,28 +1,34 @@
 ![Coding Everyday](https://i.hizliresim.com/pyig58c.png)
 
 
-# Hello there! 👋
+# Welcome to My GitHub Profile! 👋
 
-I'm pordarman, and I'm here to showcase my projects on my GitHub profile. Let me introduce you to some of them:
-
-## Alisa
-- [Alisa](https://github.com/pordarman/alisa): A helpful bot for registration systems on Discord.
-- [Alisa.db](https://github.com/pordarman/alisa.db): A JSON-based database module.
-
-## Other Projects
-I also have various modules and tools in the following projects:
-- [Alisa.ms](https://github.com/pordarman/alisa.ms): A useful module for time services.
-- [Strong Set](https://github.com/pordarman/strong-set): A functional module for set data structure.
-- [Alisa.map](https://github.com/pordarman/alisa.map): An easy-to-use module for map data structure.
-- [Alisa.array](https://github.com/pordarman/alisa.array): A practical module for array manipulation.
-- [Discord Utils](https://github.com/pordarman/dcjs-util): Contains necessary shortcuts for discord.js.
+Hello there! I'm Ali, a Computer Engineering student at the Turkish Aeronautical Association University. I've been passionate about software development for almost three years, working on various projects and gaining experience in different programming languages.
 
 ## About Me
-I'm passionate about developing projects and always enjoy trying out new things. Feel free to explore my GitHub profile and reach out to me if you'd like to know more about my projects or get in touch. Here are my contact details:
-- Email: [ali.taha.celik@gmail.com](mailto:ali.taha.celik@gmail.com)
-- LinkedIn: [Ali İhsan Çelik](https://www.linkedin.com/in/ali-ihsan-%C3%A7elik-674b82262/)
 
-I love working on my projects and appreciate your support. Feel free to check out my work on my GitHub profile. Thank you! 😊
+- 🎓 Studying Computer Engineering at [Turkish Aeronautical Association University](https://www.thk.edu.tr/en/)
+- 💻 Proficient in JavaScript and Python; beginner in C++, HTML, and CSS
+- 🚀 Currently learning C++ for a game development project this summer
+
+## Projects
+
+### Discord Bot - Alisa
+I've developed a Discord bot using `discord.js` to streamline server management. The bot is free to use and runs continuously without interruptions. If you'd like to add it to your server, feel free to [click here](https://discord.com/oauth2/authorize?client_id=838446728230993930&permissions=8&scope=applications.commands%20bot).
+
+### NPM Modules
+I've also shared some modules on [npmjs.com](https://www.npmjs.com/~pordarman). While these modules may seem simple, I wanted to contribute to the community by sharing my work.
+
+## Learning Journey
+
+Currently, I'm diving into the world of C++ as I embark on a game development project this summer. It's an exciting learning experience, and I'm eager to enhance my skills in this versatile programming language.
+
+## Let's Connect!
+
+Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to chat, don't hesitate to [reach out](mailto:ali.taha.celik@gmail.com).
+
+Happy coding! 🚀
+
 
 ---
 
