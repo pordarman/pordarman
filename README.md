@@ -21,7 +21,7 @@ I've also shared some modules on [npmjs.com](https://www.npmjs.com/~pordarman). 
 
 ## Learning Journey
 
-Currently, I'm diving into the world of C++ as I embark on a game development project this summer. It's an exciting learning experience, and I'm eager to enhance my skills in this versatile programming language.
+Currently, I'm diving into the world of C# as I embark on a game development project this summer. It's an exciting learning experience, and I'm eager to enhance my skills in this versatile programming language.
 
 ## Let's Connect!
 
