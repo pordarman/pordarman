@@ -1,40 +1,38 @@
-![Coding Everyday](https://i.hizliresim.com/pyig58c.png)
+![Coding Everyday Banner](https://i.hizliresim.com/pyig58c.png)
 
+Hi, I'm Ali! 👋
+===============
 
-# Welcome to My GitHub Profile! 👋
+I'm a passionate developer and a Computer Engineering student at the University of Turkish Aeronautical Association.  
+I love building user-centric applications, learning new technologies, and contributing to the community.  
+Currently, I'm challenging myself by developing a 2D game with **C#** and **Unity**!
 
-Hello there! I'm Ali, a Computer Engineering student at the Turkish Aeronautical Association University. I've been passionate about software development for almost three years, working on various projects and gaining experience in different programming languages.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.taha.celik@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ali-ihsan-celik-thk/)
 
-## About Me
+🛠️ Technologies & Tools I Use
 
-- 🎓 Studying Computer Engineering at [Turkish Aeronautical Association University](https://www.thk.edu.tr/en/)
-- 💻 Proficient in JavaScript and Python; beginner in C++, HTML, and CSS
-- 🚀 Currently learning C++ for a game development project this summer
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,cs,java,py,git,raspberrypi,html,css,react,mysql,sqlite,ps)](https://skillicons.dev)
 
-## Projects
+🚀 My Projects
 
-### Discord Bot - Alisa
-I've developed a Discord bot using `discord.js` to streamline server management. The bot is free to use and runs continuously without interruptions. If you'd like to add it to your server, feel free to [click here](https://discord.com/oauth2/authorize?client_id=838446728230993930&permissions=8&scope=applications.commands%20bot).
+### 🎮 2D Pixel Platformer Game
 
-### NPM Modules
-I've also shared some modules on [npmjs.com](https://www.npmjs.com/~pordarman). While these modules may seem simple, I wanted to contribute to the community by sharing my work.
+My most exciting project at the moment, which I'm actively developing! I'm building a 2D platformer game from scratch using C# and the Unity game engine. Through this project, I'm learning game development dynamics and taking my C# skills to the next level.
 
-## Learning Journey
+**Technologies Used:** C#, Unity
 
-Currently, I'm diving into the world of C# as I embark on a game development project this summer. It's an exciting learning experience, and I'm eager to enhance my skills in this versatile programming language.
+### 🤖 Discord Bot - Alisa (Inactive)
 
-## Let's Connect!
+A Discord bot developed with `discord.js` to streamline server management. This project was one of my first major steps into Node.js and API integration. The bot is currently inactive for maintenance, but you can still check out the code.
 
-Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to chat, don't hesitate to [reach out](mailto:ali.taha.celik@gmail.com).
+**Technologies Used:** JavaScript, Node.js, discord.js
 
-Happy coding! 🚀
+[![Repo Link](https://img.shields.io/badge/View_Repository-181717)](https://github.com/pordarman/alisa)
 
+### 📦 NPM Modules
 
----
+A few small modules I developed and published on [NPM](https://www.npmjs.com/~pordarman) to contribute to the open-source community.
 
-⭐ GitHub Stats ⭐
+📊 My GitHub Stats
 
-![GitHub Stars](https://img.shields.io/github/stars/pordarman?style=social)
-
----
-
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pordarman&size_weight=0.5&count_weight=0.5&theme=nightowl) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pordarman&theme=nightowl)
